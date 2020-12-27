@@ -1,10 +1,16 @@
 # Freshworks-assignment-data-store
 **Functions performed**
+
 1.Create()
+
 2.Read()
+
 3.Delete()
+
 4.DisplayAll()
+
 5.ClearAll()
+
 Upon instantiating the class, the datastore is created as 'database.json' in a user-defined address. If no address was provided, it defaults to the current working address.
 The program fulfills the following requirements:
 
