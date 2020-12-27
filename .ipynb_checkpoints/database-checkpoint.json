@@ -1,0 +1,18 @@
+{
+  "varada": {
+    "value": 100,
+    "ttl": 1609047636
+  },
+  "priya": {
+    "value": 500,
+    "ttl": null
+  },
+  "riya": {
+    "value": 1000,
+    "ttl": null
+  },
+  "Jim": {
+    "value": "Jim two",
+    "ttl": null
+  }
+}
